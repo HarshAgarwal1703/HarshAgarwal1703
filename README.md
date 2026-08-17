@@ -137,7 +137,12 @@ I enjoy exploring data, building projects, learning new technologies, and creati
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HarshAgarwal1703&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/HarshAgarwal1703">
+    <img
+      src="https://streak-stats.demolab.com/?user=HarshAgarwal1703&theme=tokyonight&hide_border=true"
+      alt="Harsh Agarwal GitHub Streak"
+    />
+  </a>
 
 </div>
 
